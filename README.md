@@ -1,6 +1,6 @@
 Diwali Sales Analysis
 
-I have Analyzed the company's diwali sales data using Python.
+I have Analyzed the local retail store diwali sales data using Python.
 
 ->Performed Data Cleaning like removal of null values, duplicates and Data Manipulation.
 
