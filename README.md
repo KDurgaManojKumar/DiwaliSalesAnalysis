@@ -9,7 +9,7 @@ The primary objectives of this project are as follows:
 ## Data Analysis Workflow
 
 ### Loading Data and Data Cleaning
-1. Imported libraries such as pandas, NumPy, matplotlib, and seaborn in a google colab.
+1. Imported Python libraries such as pandas, NumPy, matplotlib, and seaborn in a google colab.
 2. Loaded the CSV file containing raw data using the pd.read_csv() function.
 3. Used df.info() to understand column datatypes and null counts.
 4. Removed useless columns with df.drop().
